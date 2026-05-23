@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ivanov_poshadite/static/css/main.1b2d872a.css",
+    "main.js": "/ivanov_poshadite/static/js/main.526e2c85.js",
+    "index.html": "/ivanov_poshadite/index.html",
+    "main.1b2d872a.css.map": "/ivanov_poshadite/static/css/main.1b2d872a.css.map",
+    "main.526e2c85.js.map": "/ivanov_poshadite/static/js/main.526e2c85.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b2d872a.css",
+    "static/js/main.526e2c85.js"
+  ]
+}
