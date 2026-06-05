@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ivanov_poshadite/static/css/main.1b2d872a.css",
-    "main.js": "/ivanov_poshadite/static/js/main.526e2c85.js",
+    "main.js": "/ivanov_poshadite/static/js/main.0f4866f3.js",
     "index.html": "/ivanov_poshadite/index.html",
     "main.1b2d872a.css.map": "/ivanov_poshadite/static/css/main.1b2d872a.css.map",
-    "main.526e2c85.js.map": "/ivanov_poshadite/static/js/main.526e2c85.js.map"
+    "main.0f4866f3.js.map": "/ivanov_poshadite/static/js/main.0f4866f3.js.map"
   },
   "entrypoints": [
     "static/css/main.1b2d872a.css",
-    "static/js/main.526e2c85.js"
+    "static/js/main.0f4866f3.js"
   ]
 }
